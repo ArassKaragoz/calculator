@@ -1,2 +1,2 @@
 # calculator
-pyhton3
+Write calculator code with python.
